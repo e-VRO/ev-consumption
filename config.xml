@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment></comment>
+
+    <entry key="DB_IP"></entry>
+    <entry key="DB_TABLE"></entry>
+    <entry key="DB_LOGIN"></entry>
+    <entry key="DB_PASS"></entry>
+
+
+    <entry key="SERVER_OSRM_IP"></entry>
+    <entry key="SERVER_OSRM_PORT"></entry>
+
+    <entry key="OPEN_WEATHER_API_KEY"></entry>
+
+    <entry key="PROXY_HOSTNAME"></entry>
+    <entry key="PROXy_PORT"></entry>
+</properties>
